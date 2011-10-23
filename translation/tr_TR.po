@@ -1,0 +1,283 @@
+# , 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanBiz 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-01 21:33+0600\n"
+"PO-Revision-Date: 2011-10-24 00:52+0300\n"
+"Last-Translator: \n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"Language: tr_TR\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Lütfen, bu sayfayı direkt olarak yüklemeyin. Teşekkürler!"
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Bu gönderiyi parola korumalı. Yorumları görüntülemek için parolayı girin."
+
+#: ../comments.php:19
+msgid "No Comments"
+msgstr "Yorum yok"
+
+#: ../comments.php:19
+msgid "One Comment"
+msgstr "1 yorum"
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr "Geribildirimler/Referans verenler"
+
+#: ../comments.php:61
+#: ../page-contact.php:115
+#: ../page-search.php:62
+msgid "Submit"
+msgstr "Gönder"
+
+#: ../comments.php:61
+msgid "Leave a Comment"
+msgstr "Yorum yaz"
+
+#: ../comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "%s için yorum yaz"
+
+#: ../footer.php:5
+msgid "Previous"
+msgstr "Önceki"
+
+#: ../footer.php:6
+msgid "Next"
+msgstr "Sonraki"
+
+#: ../footer.php:48
+msgid "Designed by "
+msgstr "Tasarım :"
+
+#: ../footer.php:48
+msgid "Powered by "
+msgstr "Sunan:"
+
+#: ../header.php:65
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: ../header.php:76
+msgid "Search this site..."
+msgstr "Sitede ara..."
+
+#: ../loop-page.php:24
+#: ../loop-single.php:45
+#: ../page-search.php:34
+#: ../page-sitemap.php:28
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: ../loop-page.php:25
+#: ../loop-single.php:46
+msgid "Edit this page"
+msgstr "Bu sayfayı düzenle"
+
+#: ../loop-single.php:37
+#: ../page-blog.php:46
+msgid "Posted"
+msgstr "Gönderildi"
+
+#: ../loop-single.php:37
+#: ../page-blog.php:46
+msgid "by"
+msgstr "gönderen"
+
+#: ../loop-single.php:37
+#: ../page-blog.php:46
+msgid "in"
+msgstr "kategori"
+
+#: ../page-blog.php:46
+msgid "on"
+msgstr "zaman"
+
+#: ../page-blog.php:46
+msgid "0 comments"
+msgstr "Yorum eklenmemiş"
+
+#: ../page-blog.php:46
+msgid "1 comment"
+msgstr "1 yorum"
+
+#: ../page-blog.php:46
+msgid "comments"
+msgstr "yorumlar"
+
+#: ../page-blog.php:66
+msgid "read more"
+msgstr "devamı"
+
+#: ../page-contact.php:19
+msgid "Make sure you entered the captcha. "
+msgstr "Güvenlik resmindeki metni girdiğinize emin olun."
+
+#: ../page-contact.php:23
+msgid "You entered the wrong number in captcha. "
+msgstr "Güvenlik resmindeki metni yanlış girdiniz."
+
+#: ../page-contact.php:32
+msgid "Make sure you fill all fields. "
+msgstr "Tüm alanları doldurduğunuza emin olun."
+
+#: ../page-contact.php:37
+msgid "Invalid Email. "
+msgstr "Geçersiz e-posta adresi"
+
+#: ../page-contact.php:58
+msgid "Thanks for contacting us"
+msgstr "İletişime geçtiğiniz için teşekkürler"
+
+#: ../page-contact.php:83
+msgid "Name"
+msgstr "İsim"
+
+#: ../page-contact.php:87
+msgid "Email Address"
+msgstr "E-posta adresi"
+
+#: ../page-contact.php:91
+msgid "Subject"
+msgstr "Konu"
+
+#: ../page-contact.php:98
+msgid "Captcha: "
+msgstr "Güvenlik resmi"
+
+#: ../page-contact.php:114
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: ../page-gallery.php:51
+#: ../page-template-portfolio.php:98
+msgid "Zoom in"
+msgstr "Yakınlaş"
+
+#: ../page-gallery.php:52
+#: ../page-template-portfolio.php:99
+msgid "Read more"
+msgstr "Devamı"
+
+#: ../page-login.php:30
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: ../page-login.php:31
+msgid "Password"
+msgstr "Parola"
+
+#: ../page-login.php:35
+msgid "Not a member?"
+msgstr "Üye değil misiniz?"
+
+#: ../page-login.php:35
+msgid "Register today!"
+msgstr "Hemen kayıt olun!"
+
+#: ../page-search.php:28
+msgid "search this website"
+msgstr "sayfada ara"
+
+#: ../page-search.php:31
+msgid "search this site..."
+msgstr "sitede ara..."
+
+#: ../page-search.php:33
+msgid "Posts"
+msgstr "Gönderiler"
+
+#: ../page-search.php:37
+msgid "Select a month"
+msgstr "Ay seçin"
+
+#: ../page-sitemap.php:33
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: ../page-sitemap.php:38
+msgid "Tags"
+msgstr "Etiketler"
+
+#: ../page-sitemap.php:54
+msgid "Authors"
+msgstr "Yazarlar"
+
+#: ../includes/breadcrumbs.php:7
+msgid "Posts Tagged "
+msgstr "Şu etiketli gönderiler"
+
+#: ../includes/breadcrumbs.php:9
+#: ../includes/breadcrumbs.php:11
+#: ../includes/breadcrumbs.php:13
+msgid "Posts made in"
+msgstr "Şu zamandaki gönderiler "
+
+#: ../includes/breadcrumbs.php:15
+msgid "Search results for"
+msgstr "Arama sonuçları : "
+
+#: ../includes/breadcrumbs.php:30
+msgid "Posts by "
+msgstr ""
+
+#: ../includes/entry.php:51
+msgid "Read More"
+msgstr "Devamı"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Eski gönderiler"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Sonraki gönderiler &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "Sonuç bulunamadı"
+
+#: ../includes/no-results.php:4
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+"Aradığığınız sayfa bulunamadı. Arama kriterlerinizi düzenlemeyi veya "
+"yukarıdaki menüyü kullanarak gönderiyi bulmayı deneyin"
+
+#: ../includes/functions/comments.php:15
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#: ../includes/functions/comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz, yönetici onayı bekliyor."
+
+#: ../includes/functions/comments.php:26
+msgid "Reply"
+msgstr "Cevapla"
+
+
